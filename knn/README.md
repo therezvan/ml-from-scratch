@@ -105,7 +105,6 @@ ml-from-scratch/
    Optimal k from cross-validation: 9
    ```
     
-
    The best performing value in cross-validation is **k = 9** with an average accuracy of **0.970**  .
 
 3. **Training and Evaluation with the Optimal k**
